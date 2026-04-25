@@ -1,4 +1,4 @@
-# 🚆 UK Rail Performance & Delay Analysis
+# UK Rail Performance & Delay Analysis
 
 ## Project Overview
 This project analyzes UK railway ticket sales and journey performance using SQL, Python, and Tableau. The goal is to uncover insights into travel patterns, delays, and revenue trends.

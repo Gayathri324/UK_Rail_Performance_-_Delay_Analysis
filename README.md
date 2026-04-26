@@ -40,6 +40,11 @@ This project analyzes UK railway ticket sales and journey performance using SQL,
 
 ---
 
+## Dashboard Preview
+![Dashboard]()
+
+---
+
 ## Dashboard
 [Tableau dashboard](https://public.tableau.com/app/profile/gayathri.karagoda.pathiranage/viz/UKRailPerformanceDelayAnalysisDashboard/UKRailPerformanceDelayAnalysisDashboard)
 
@@ -47,7 +52,7 @@ This project analyzes UK railway ticket sales and journey performance using SQL,
 
 ## How to Use
 1. Clone the repository  
-2. Open the dataset or SQL files  
+2. Open the SQL files and Python files
 3. Open Tableau dashboard file (.twbx or .twb)  
 4. Explore the interactive dashboard  
 

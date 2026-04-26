@@ -41,7 +41,7 @@ This project analyzes UK railway ticket sales and journey performance using SQL,
 ---
 
 ## Dashboard Preview
-![Dashboard]()
+![Dashboard](train_dashboard.png)
 
 ---
 
